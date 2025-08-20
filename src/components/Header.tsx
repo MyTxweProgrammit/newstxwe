@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Link } from '@tanstack/react-router'
 import HamBar from '../Icon_mt/HamBar'
 import Cross from '../Icon_mt/Cross'
